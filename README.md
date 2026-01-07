@@ -8,58 +8,94 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ## 👋 About
 
-I’m a **Platform Engineer** focused on building **reusable, production-grade cloud infrastructure** using Infrastructure as Code.  
-My work emphasizes **clean architecture**, **environment isolation**, and **automation-first design** rather than one-off scripts.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Platform%20Engineering-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kubernetes-Production--Ready-326CE5?style=flat-square" />
+</p>
 
-I enjoy designing systems that other engineers can safely reuse, extend, and operate at scale.
+I’m a **Platform Engineer** focused on building **reusable, production-grade cloud infrastructure** using Infrastructure as Code.  
+My work emphasizes **clean architecture**, **environment isolation**, and **automation-first design**—not one-off scripts.
+
+I enjoy designing platforms that other engineers can **reuse safely**, **scale confidently**, and **operate predictably**.
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%" />
+
 ## 🧩 What I Build
 
-- Terraform platforms with reusable modules and workspace-isolated state
-- Azure and AWS infrastructure (networking, compute, IAM, AKS/EKS)
-- Kubernetes platform foundations
-- CI/CD and GitOps-friendly infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=terraform,azure,aws,kubernetes,githubactions&perline=5" />
+</p>
+
+- Reusable Terraform platforms with workspace-isolated state  
+- Azure & AWS infrastructure (networking, compute, IAM, AKS/EKS)  
+- Kubernetes platform foundations  
+- CI/CD and GitOps-ready infrastructure  
 - Multi-environment architectures (dev / stage / prod)
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ## ⭐ Featured Project
 
-**Azure Terraform Platform**  
-A reusable Terraform platform that provisions Azure networking, AKS, compute, and RBAC using a **single codebase** and **workspace-driven configuration**.
+<p align="left">
+  <img src="https://img.shields.io/badge/Terraform-Platform-blueviolet?style=for-the-badge&logo=terraform" />
+</p>
 
-**Key characteristics:**
-- Environment-agnostic modules
-- Workspace-isolated remote state
-- Configuration-driven sizing and behavior
-- No hardcoded environments or embedded secrets
-- CI-safe and GitHub-ready
+### Azure Terraform Platform
 
-👉 See: `azure-terraform-platform`
+A reusable Terraform platform that provisions **Azure networking, AKS, compute, and RBAC** using a **single codebase** and **workspace-driven configuration**.
+
+**Design highlights:**
+- Environment-agnostic modules  
+- Workspace-isolated remote state  
+- Configuration-driven sizing and behavior  
+- No hardcoded environments  
+- No embedded secrets  
+- CI-safe and GitHub-ready  
+
+👉 Repository: **`azure-terraform-platform`**
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%" />
+
 ## 🧠 Engineering Principles
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Config%20Over%20Code-✔-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reusability-First-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-By%20Default-success?style=flat-square" />
+</p>
 
 - Configuration over hardcoding  
 - Reusability over duplication  
 - State isolation by default  
-- Secure by design (no secrets in code)  
-- Automation-first, CI-friendly workflows  
+- Secure by design  
+- Automation-first workflows  
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📚 Currently Exploring
 
-- Advanced Kubernetes patterns
-- GitOps workflows (Argo CD)
-- Platform engineering best practices
-- Observability and service mesh fundamentals
+<p align="left">
+  <img src="https://img.shields.io/badge/GitOps-ArgoCD-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kubernetes-Advanced%20Patterns-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform%20Engineering-Best%20Practices-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Observability-Service%20Mesh-blue?style=flat-square" />
+</p>
 
 ---
 
-📌 Repositories below reflect **real implementations**, not demos.
+<p align="center">
+  <i>Repositories below reflect real implementations — not demos.</i>
+</p>
