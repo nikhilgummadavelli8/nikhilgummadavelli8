@@ -1,38 +1,65 @@
 <div align="center">
 
-# 👋 Welcome to my GitHub Profile!
+# Nikhil Gummadavelli
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nikhil%20Gummadavelli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Cloud+Infrastructure+Engineer+%E2%98%81%EF%B8%8F;Terraform+%7C+Azure+%7C+AWS+%7C+Kubernetes;Building+Production-Grade+Platforms+%F0%9F%9A%80;DevOps+%26+Platform+Engineering+Expert)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&lines=Platform+Engineer;Cloud+Infrastructure+%26+IaC;Terraform+%7C+Azure+%7C+AWS+%7C+Kubernetes)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 About Me
+---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 👋 About
 
-```yaml
-name: Nikhil Gummadavelli
-located_in: Cloud ☁️
-current_focus: Multi-Cloud Infrastructure Platforms
-expertise: Infrastructure Engineering
-education:
-  - "Infrastructure as Code"
-  - "Cloud Architecture"
-  - "Platform Engineering"
+I’m a **Platform Engineer** focused on building **reusable, production-grade cloud infrastructure** using Infrastructure as Code.  
+My work emphasizes **clean architecture**, **environment isolation**, and **automation-first design** rather than one-off scripts.
 
-fields_of_interests:
-  - "Infrastructure as Code (IaC)"
-  - "Cloud Native Technologies"
-  - "Kubernetes & Container Orchestration"  
-  - "CI/CD & DevOps Automation"
-  - "Multi-Cloud Architecture"
+I enjoy designing systems that other engineers can safely reuse, extend, and operate at scale.
 
-currently_learning:
-  - "Advanced Kubernetes Patterns"
-  - "GitOps & ArgoCD"
-  - "Platform Engineering Best Practices"
-  - "Service Mesh & Observability"
+---
+
+## 🧩 What I Build
+
+- Terraform platforms with reusable modules and workspace-isolated state
+- Azure and AWS infrastructure (networking, compute, IAM, AKS/EKS)
+- Kubernetes platform foundations
+- CI/CD and GitOps-friendly infrastructure
+- Multi-environment architectures (dev / stage / prod)
+
+---
+
+## ⭐ Featured Project
+
+**Azure Terraform Platform**  
+A reusable Terraform platform that provisions Azure networking, AKS, compute, and RBAC using a **single codebase** and **workspace-driven configuration**.
+
+**Key characteristics:**
+- Environment-agnostic modules
+- Workspace-isolated remote state
+- Configuration-driven sizing and behavior
+- No hardcoded environments or embedded secrets
+- CI-safe and GitHub-ready
+
+👉 See: `azure-terraform-platform`
+
+---
+
+## 🧠 Engineering Principles
+
+- Configuration over hardcoding  
+- Reusability over duplication  
+- State isolation by default  
+- Secure by design (no secrets in code)  
+- Automation-first, CI-friendly workflows  
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced Kubernetes patterns
+- GitOps workflows (Argo CD)
+- Platform engineering best practices
+- Observability and service mesh fundamentals
+
+---
+
+📌 Repositories below reflect **real implementations**, not demos.
